@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1460731136 source:c:\users\user\desktop\graphics.new\sound\sound.c
+	"sound.h"
+
+1460731042 c:\users\user\desktop\graphics.new\sound\sound.h
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1464965730 source:c:\users\user\desktop\graphics.new\sprite\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Graphics.h"
+	"../Sound/Sound.h"
+	<stdlib.h>
+	"Graphics.h"
+	"../Sound/Sound.h"
+
+1460473472 c:\users\user\desktop\graphics.new\sprite\graphics.h
+	<windows.h>
+
+1465190877 source:f:\snack_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Graphics.h"
+	"Sound.h"
+
+1460473472 f:\snack_v3\graphics.h
+	<windows.h>
+
+1460731042 f:\snack_v3\sound.h
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1467205486 source:c:\users\students\desktop\snack_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"Graphics.h"
+	"Sound.h"
+
+1460473472 c:\users\students\desktop\snack_v3\graphics.h
+	<windows.h>
+
+1460731042 c:\users\students\desktop\snack_v3\sound.h
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
